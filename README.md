@@ -12,7 +12,7 @@ A marketplace website built with React JS and MongoDB for a client. Has core fun
 
 See here for current deployment link: [t34home.vercel.app](t34home.vercel.app)
 
-See here for deployment of homepage without backend-services: [https://t34home.vercel.app/home-page](https://t34home.vercel.app/home-page)
+See here for deployment of homepage: [https://t34home.vercel.app/home-page](https://t34home.vercel.app/home-page)
 
 ## Running from local
 The current website needs to be deployed by the client on both front and back end via depolyment cloud services to be displayed. However, for viewing pleasure this build can also run locally. 
